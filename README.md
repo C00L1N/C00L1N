@@ -21,13 +21,9 @@ Or most-used languages:
 
 ## 📂 Projects
 
-- [🧮 Web Calculator](https://github.com/coolin/web-calculator) – A basic calculator built with HTML/CSS/JS.
-- [☕ Java Console Calculator](https://github.com/coolin/java-console-calculator) – Console-based Java calculator with input validation.
+- [🧮 Web Calculator](https://github.com/C00L1N/JavaScript-Practice.git) – A basic calculator built with HTML/CSS/JS.
+- [☕ Java Console Calculator](https://github.com/C00L1N/Java-Calculator.git) – Console-based Java calculator with input validation.
 
-## 💬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-Ben%20Jimenez-blue?style=flat&logo=linkedin)](www.linkedin.com/in/coolin-jimenez-048228196)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:jimenez.bencoolin@gmail.com)
 
 
 <!--
